@@ -1,4 +1,4 @@
-https://photos.app.goo.gl/xJDA6N7KuaUwWvRZ7
+video demo: https://photos.app.goo.gl/xJDA6N7KuaUwWvRZ7
 
 # AI-Powered Interview Transcript Bookmarking System
 
